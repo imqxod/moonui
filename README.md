@@ -1,5 +1,6 @@
 # MoonUI
 A simple Roblox notification library
+only 1920x1080 res is supported
 
 ## Usage/Examples
 
